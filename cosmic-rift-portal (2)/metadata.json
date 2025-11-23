@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Rift Portal",
+  "description": "An interactive WebGL cosmic portal effect with gravitational distortion, procedural clouds, and nebula shaders.",
+  "requestFramePermissions": []
+}

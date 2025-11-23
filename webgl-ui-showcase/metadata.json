@@ -1,0 +1,5 @@
+{
+  "name": "WebGL UI Showcase",
+  "description": "A high-performance React application demonstrating hybrid HTML/WebGL UI components with advanced shaders and particle effects using React Three Fiber.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Twin Peaks - The Black Lodge UI",
+  "description": "A surreal UI experiment featuring reusable WebGL-powered HTML buttons with custom GLSL shaders (Red Room, ZigZag, Fire) and a Gemini-powered Log Lady oracle.",
+  "requestFramePermissions": []
+}

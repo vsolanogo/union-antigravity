@@ -1,0 +1,5 @@
+{
+  "name": "Flux Replay Parser",
+  "description": "A futuristic, high-performance replay parser visualization featuring a custom WebGL shader background and glassmorphic UI.",
+  "requestFramePermissions": []
+}

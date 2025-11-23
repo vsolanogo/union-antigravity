@@ -1,0 +1,5 @@
+{
+  "name": "Neon Neural Grid",
+  "description": "A high-performance, interactive cyber-aesthetic background effect using Pixi.js v7. Features an elastic particle grid system with dynamic lighting and physics-based mouse interaction.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Solar System Explorer",
+  "description": "An interactive 3D solar system simulation using React Three Fiber. Explore planets, view orbits, and ask Gemini AI for detailed astronomical insights.",
+  "requestFramePermissions": []
+}

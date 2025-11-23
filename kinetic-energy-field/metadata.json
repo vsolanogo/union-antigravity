@@ -1,0 +1,5 @@
+{
+  "name": "Kinetic Energy Field",
+  "description": "An interactive, high-performance particle system using PIXI.js that simulates a fluid kinetic energy field. Particles react to cursor movement with physics-based elasticity and color shifting.",
+  "requestFramePermissions": []
+}

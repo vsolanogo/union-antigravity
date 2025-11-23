@@ -1,0 +1,5 @@
+{
+  "name": "Dharma Initiative Protocol",
+  "description": "A LOST-themed interface demonstrating WebGL-enhanced HTML buttons using React Three Fiber and custom shaders.",
+  "requestFramePermissions": []
+}
