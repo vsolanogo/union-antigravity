@@ -51,7 +51,7 @@ PROJECTS.forEach(projectName => {
 
         // Build project
         console.log(`   Building...`);
-        execSync(`npm run build -- --base=/projects/${projectName}/`, { cwd: projectPath, stdio: 'inherit' });
+        execSync(`npm run build -- --base="/union-antigravity/projects/${projectName}/"`, { cwd: projectPath, stdio: 'inherit' });
 
         // Copy dist to public/projects
         if (fs.existsSync(targetPath)) {

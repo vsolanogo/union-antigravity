@@ -49,7 +49,7 @@ const App: React.FC = () => {
         </Suspense>
 
         {/* Cinematic Post Processing */}
-        <EffectComposer disableNormalPass>
+        <EffectComposer>
           {/* Intense Glow */}
           <Bloom
             luminanceThreshold={0.2}
