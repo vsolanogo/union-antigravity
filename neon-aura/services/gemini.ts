@@ -1,10 +1,28 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import { VibeAnalysis } from '../types';
 
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const getAiClient = () => {
+  const apiKey = process.env.API_KEY;
+  if (!apiKey) {
+    console.warn("Gemini API Key not found. Using fallback response.");
+    return null;
+  }
+  return new GoogleGenAI({ apiKey });
+};
 
 export const analyzeImageVibe = async (base64Image: string): Promise<VibeAnalysis> => {
   try {
+    const ai = getAiClient();
+
+    if (!ai) {
+      return {
+        mood: "Cybernetic (Offline Mode)",
+        color1: "#FF0099",
+        color2: "#00FFDD",
+        description: "API Key missing. Running in offline neon mode."
+      };
+    }
+
     const base64Data = base64Image.split(',')[1] || base64Image;
 
     const response = await ai.models.generateContent({
@@ -38,7 +56,7 @@ export const analyzeImageVibe = async (base64Image: string): Promise<VibeAnalysi
     });
 
     if (response.text) {
-        return JSON.parse(response.text) as VibeAnalysis;
+      return JSON.parse(response.text) as VibeAnalysis;
     }
     throw new Error("No text response from Gemini");
 
