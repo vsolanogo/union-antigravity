@@ -15,4 +15,6 @@ export const projects: Project[] = [
     { id: 8, name: 'Kinetic Energy', path: `${import.meta.env.BASE_URL}projects/kinetic-energy-field/index.html` },
     { id: 9, name: 'LuminaGL Buttons', path: `${import.meta.env.BASE_URL}projects/luminagl-buttons/index.html` },
     { id: 10, name: 'Neon Neural Grid', path: `${import.meta.env.BASE_URL}projects/neon-neural-grid/index.html` },
+    { id: 11, name: '10X WebGL UI', path: `${import.meta.env.BASE_URL}projects/10Xwebgl-ui-showcase/index.html` },
+    { id: 12, name: 'Twin Peaks V2', path: `${import.meta.env.BASE_URL}projects/v2twin-peaks---the-black-lodge-ui/index.html` },
 ];

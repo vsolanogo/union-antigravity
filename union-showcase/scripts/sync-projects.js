@@ -22,7 +22,9 @@ const PROJECTS = [
     'flux-replay-parser',
     'kinetic-energy-field',
     'luminagl-buttons',
-    'neon-neural-grid'
+    'neon-neural-grid',
+    '10Xwebgl-ui-showcase',
+    'v2twin-peaks---the-black-lodge-ui'
 ];
 
 // Ensure public/projects exists
