@@ -1,0 +1,5 @@
+{
+  "name": "Dota 2 WebGL UI",
+  "description": "A Dota 2 themed interface featuring high-performance WebGL-powered interactive buttons using React Three Fiber.",
+  "requestFramePermissions": []
+}

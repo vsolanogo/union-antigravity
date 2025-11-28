@@ -1,0 +1,5 @@
+{
+  "name": "Los Santos UI - WebGL Buttons",
+  "description": "A GTA 5 themed UI showcase featuring high-performance HTML buttons with integrated WebGL shaders (Three.js/React-Three-Fiber) for advanced neon, glitch, and environmental effects.",
+  "requestFramePermissions": []
+}

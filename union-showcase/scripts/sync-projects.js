@@ -24,7 +24,10 @@ const PROJECTS = [
     'luminagl-buttons',
     'neon-neural-grid',
     '10Xwebgl-ui-showcase',
-    'v2twin-peaks---the-black-lodge-ui'
+    'v2twin-peaks---the-black-lodge-ui',
+    'los-santos-ui---webgl-buttons',
+    'dota-2-webgl-ui',
+    'dota-2-webgl-ui--V2'
 ];
 
 // Ensure public/projects exists
