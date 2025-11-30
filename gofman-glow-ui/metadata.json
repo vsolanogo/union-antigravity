@@ -1,0 +1,5 @@
+{
+  "name": "Gofman Glow UI",
+  "description": "A showcase of WebGL-powered UI components featuring Igor Gofman themed aesthetic using React Three Fiber and Custom Shaders.",
+  "requestFramePermissions": []
+}

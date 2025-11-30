@@ -1,0 +1,5 @@
+{
+  "name": "Cossacks 3 WebGL UI",
+  "description": "A historical RTS themed UI with high-performance WebGL shaders for button effects, using React Three Fiber.",
+  "requestFramePermissions": []
+}

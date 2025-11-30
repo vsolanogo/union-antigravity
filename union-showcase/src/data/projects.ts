@@ -20,4 +20,12 @@ export const projects: Project[] = [
     { id: 13, name: 'Neon Aura', path: `${import.meta.env.BASE_URL}projects/neon-aura/index.html` },
     { id: 14, name: 'Dota 2 UI', path: `${import.meta.env.BASE_URL}projects/dota-2-webgl-ui/index.html` },
     { id: 15, name: 'Dota 2 UI V2', path: `${import.meta.env.BASE_URL}projects/dota-2-webgl-ui--V2/index.html` },
+    { id: 16, name: 'Cossacks 3 UI', path: `${import.meta.env.BASE_URL}projects/cossacks-3-webgl-ui/index.html` },
+    { id: 17, name: "Captain's Cursed Interface", path: `${import.meta.env.BASE_URL}projects/captain's-cursed-interface/index.html` },
+    { id: 18, name: 'Galactic UI', path: `${import.meta.env.BASE_URL}projects/galactic-ui---event-horizon-buttons/index.html` },
+    { id: 19, name: 'Cossacks 3 Full Screen', path: `${import.meta.env.BASE_URL}projects/cossacks-3-webgl-ui-Full-Screen/index.html` },
+    { id: 20, name: "Captain's Cursed Interface V2", path: `${import.meta.env.BASE_URL}projects/captain's-cursed-interface-full-screen-2v2/index.html` },
+    { id: 21, name: 'LuminaGL Full Screen', path: `${import.meta.env.BASE_URL}projects/luminagl-buttons-full-screen/index.html` },
+    { id: 22, name: 'Gofman Glow UI', path: `${import.meta.env.BASE_URL}projects/gofman-glow-ui/index.html` },
+    { id: 23, name: 'Galactic UI Wide', path: `${import.meta.env.BASE_URL}projects/galactic-ui---event-horizon-buttons-wide-screen-2btns/index.html` },
 ];

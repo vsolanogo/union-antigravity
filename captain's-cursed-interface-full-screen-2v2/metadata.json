@@ -1,0 +1,5 @@
+{
+  "name": "Captain's Cursed Interface",
+  "description": "A Pirate-themed UI showcase featuring WebGL-powered buttons with custom shaders for spectral, gold, and deep-sea effects.",
+  "requestFramePermissions": []
+}

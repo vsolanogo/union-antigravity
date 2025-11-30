@@ -27,7 +27,15 @@ const PROJECTS = [
     'v2twin-peaks---the-black-lodge-ui',
     'los-santos-ui---webgl-buttons',
     'dota-2-webgl-ui',
-    'dota-2-webgl-ui--V2'
+    'dota-2-webgl-ui--V2',
+    'cossacks-3-webgl-ui',
+    "captain's-cursed-interface",
+    'galactic-ui---event-horizon-buttons',
+    'cossacks-3-webgl-ui-Full-Screen',
+    "captain's-cursed-interface-full-screen-2v2",
+    'luminagl-buttons-full-screen',
+    'gofman-glow-ui',
+    'galactic-ui---event-horizon-buttons-wide-screen-2btns'
 ];
 
 // Ensure public/projects exists
