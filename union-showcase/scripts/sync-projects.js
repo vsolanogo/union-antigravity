@@ -35,7 +35,11 @@ const PROJECTS = [
     "captain's-cursed-interface-full-screen-2v2",
     'luminagl-buttons-full-screen',
     'gofman-glow-ui',
-    'galactic-ui---event-horizon-buttons-wide-screen-2btns'
+    'galactic-ui---event-horizon-buttons-wide-screen-2btns',
+    'vertial-bigger-twin-peaks---the-black-lodge-ui',
+    'lumiere-and-co-electric-interfaces',
+    'lumina-fidei',
+    'neontech-gl-showcase'
 ];
 
 // Ensure public/projects exists
@@ -60,7 +64,7 @@ PROJECTS.forEach(projectName => {
     try {
         // Install dependencies
         console.log(`   Installing dependencies...`);
-        execSync('npm install', { cwd: projectPath, stdio: 'inherit' });
+        execSync('npm install --legacy-peer-deps', { cwd: projectPath, stdio: 'inherit' });
 
         // Build project
         console.log(`   Building...`);

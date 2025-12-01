@@ -28,4 +28,8 @@ export const projects: Project[] = [
     { id: 21, name: 'LuminaGL Full Screen', path: `${import.meta.env.BASE_URL}projects/luminagl-buttons-full-screen/index.html` },
     { id: 22, name: 'Gofman Glow UI', path: `${import.meta.env.BASE_URL}projects/gofman-glow-ui/index.html` },
     { id: 23, name: 'Galactic UI Wide', path: `${import.meta.env.BASE_URL}projects/galactic-ui---event-horizon-buttons-wide-screen-2btns/index.html` },
+    { id: 24, name: 'Twin Peaks Vertical', path: `${import.meta.env.BASE_URL}projects/vertial-bigger-twin-peaks---the-black-lodge-ui/index.html` },
+    { id: 25, name: 'Lumiere & Co.', path: `${import.meta.env.BASE_URL}projects/lumiere-and-co-electric-interfaces/index.html` },
+    { id: 26, name: 'Lumina Fidei', path: `${import.meta.env.BASE_URL}projects/lumina-fidei/index.html` },
+    { id: 27, name: 'NeonTech GL', path: `${import.meta.env.BASE_URL}projects/neontech-gl-showcase/index.html` },
 ];
