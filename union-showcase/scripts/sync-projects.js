@@ -39,7 +39,10 @@ const PROJECTS = [
     'vertial-bigger-twin-peaks---the-black-lodge-ui',
     'lumiere-and-co-electric-interfaces',
     'lumina-fidei',
-    'neontech-gl-showcase'
+    'neontech-gl-showcase',
+    'alohagl-effects',
+    'luminous-3d-christmas-tree',
+    'neon-aloha-ui'
 ];
 
 // Ensure public/projects exists

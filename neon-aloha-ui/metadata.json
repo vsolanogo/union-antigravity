@@ -1,0 +1,5 @@
+{
+  "name": "Neon Aloha UI",
+  "description": "A Hawaii-themed UI showcase featuring high-performance WebGL-powered HTML buttons using React Three Fiber and custom shaders.",
+  "requestFramePermissions": []
+}

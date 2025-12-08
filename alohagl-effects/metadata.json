@@ -1,0 +1,5 @@
+{
+  "name": "AlohaGL Effects",
+  "description": "A Hawaii-themed showcase of HTML buttons enhanced with high-performance WebGL shaders and effects using React Three Fiber.",
+  "requestFramePermissions": []
+}

@@ -32,4 +32,7 @@ export const projects: Project[] = [
     { id: 25, name: 'Lumiere & Co.', path: `${import.meta.env.BASE_URL}projects/lumiere-and-co-electric-interfaces/index.html` },
     { id: 26, name: 'Lumina Fidei', path: `${import.meta.env.BASE_URL}projects/lumina-fidei/index.html` },
     { id: 27, name: 'NeonTech GL', path: `${import.meta.env.BASE_URL}projects/neontech-gl-showcase/index.html` },
+    { id: 28, name: 'AlohaGL Effects', path: `${import.meta.env.BASE_URL}projects/alohagl-effects/index.html` },
+    { id: 29, name: 'Luminous 3D Tree', path: `${import.meta.env.BASE_URL}projects/luminous-3d-christmas-tree/index.html` },
+    { id: 30, name: 'Neon Aloha UI', path: `${import.meta.env.BASE_URL}projects/neon-aloha-ui/index.html` },
 ];
