@@ -1,0 +1,5 @@
+{
+  "name": "TensorFlow - Manifold Visualizer",
+  "description": "A high-performance WebGL tensor field visualization using raymarching shaders to create a deep, interactive 3D background effect.",
+  "requestFramePermissions": []
+}

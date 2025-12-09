@@ -1,0 +1,5 @@
+{
+  "name": "TensorFlow Core Visualizer",
+  "description": "An immersive, high-performance WebGL tensor manifold visualization with integrated AI analysis.",
+  "requestFramePermissions": []
+}

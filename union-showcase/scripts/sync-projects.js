@@ -42,7 +42,11 @@ const PROJECTS = [
     'neontech-gl-showcase',
     'alohagl-effects',
     'luminous-3d-christmas-tree',
-    'neon-aloha-ui'
+    'neon-aloha-ui',
+    'portal-in-the-clouds-v2',
+    'portal-in-the-clouds-v3',
+    'tensorflow---manifold-visualizer',
+    'tensorflow-core-visualizer'
 ];
 
 // Ensure public/projects exists

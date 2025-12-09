@@ -1,0 +1,5 @@
+{
+  "name": "Portal in the Clouds",
+  "description": "A WebGL experiment using React Three Fiber. Reveals a galactic dimension through a mouse-controlled portal with fluid displacement and particle effects.",
+  "requestFramePermissions": []
+}

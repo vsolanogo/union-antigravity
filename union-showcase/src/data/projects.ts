@@ -35,4 +35,8 @@ export const projects: Project[] = [
     { id: 28, name: 'AlohaGL Effects', path: `${import.meta.env.BASE_URL}projects/alohagl-effects/index.html` },
     { id: 29, name: 'Luminous 3D Tree', path: `${import.meta.env.BASE_URL}projects/luminous-3d-christmas-tree/index.html` },
     { id: 30, name: 'Neon Aloha UI', path: `${import.meta.env.BASE_URL}projects/neon-aloha-ui/index.html` },
+    { id: 31, name: 'Portal Clouds V2', path: `${import.meta.env.BASE_URL}projects/portal-in-the-clouds-v2/index.html` },
+    { id: 32, name: 'Portal Clouds V3', path: `${import.meta.env.BASE_URL}projects/portal-in-the-clouds-v3/index.html` },
+    { id: 33, name: 'Manifold Visualizer', path: `${import.meta.env.BASE_URL}projects/tensorflow---manifold-visualizer/index.html` },
+    { id: 34, name: 'TensorFlow Visualizer', path: `${import.meta.env.BASE_URL}projects/tensorflow-core-visualizer/index.html` },
 ];
