@@ -1,0 +1,5 @@
+{
+  "name": "Twin Peaks: The Black Lodge",
+  "description": "A WebGL shader experience inspired by the Red Room from David Lynch's Twin Peaks.",
+  "requestFramePermissions": []
+}

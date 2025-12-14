@@ -46,7 +46,9 @@ const PROJECTS = [
     'portal-in-the-clouds-v2',
     'portal-in-the-clouds-v3',
     'tensorflow---manifold-visualizer',
-    'tensorflow-core-visualizer'
+    'tensorflow-core-visualizer',
+    'twin-peaks_-the-black-lodge',
+    'lost-highway-shader-experience'
 ];
 
 // Ensure public/projects exists

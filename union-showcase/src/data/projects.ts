@@ -39,4 +39,6 @@ export const projects: Project[] = [
     { id: 32, name: 'Portal Clouds V3', path: `${import.meta.env.BASE_URL}projects/portal-in-the-clouds-v3/index.html` },
     { id: 33, name: 'Manifold Visualizer', path: `${import.meta.env.BASE_URL}projects/tensorflow---manifold-visualizer/index.html` },
     { id: 34, name: 'TensorFlow Visualizer', path: `${import.meta.env.BASE_URL}projects/tensorflow-core-visualizer/index.html` },
+    { id: 35, name: 'Twin Peaks Black Lodge', path: `${import.meta.env.BASE_URL}projects/twin-peaks_-the-black-lodge/index.html` },
+    { id: 36, name: 'Lost Highway Shader', path: `${import.meta.env.BASE_URL}projects/lost-highway-shader-experience/index.html` },
 ];
